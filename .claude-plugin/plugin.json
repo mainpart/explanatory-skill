@@ -1,0 +1,7 @@
+{
+  "name": "explanatory-skill",
+  "description": "Order a long answer from the reader's zero to the details, and keep every claim attributed to its source.",
+  "version": "1.0.0",
+  "author": { "name": "Dmitry Krasnikov", "email": "dmitry.krasnikov@gmail.com" },
+  "repository": "https://github.com/mainpart/explanatory-skill"
+}
