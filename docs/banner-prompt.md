@@ -1,3 +1,0 @@
-# Hero banner prompt
-
-Wide 3:1 hero banner. Foreground: a single glass funnel lying on its side, wide mouth at left, narrow spout at right; inside it, loose paper scraps at the wide end gradually align into one straight ribbon of text toward the spout. Midground: a reading desk edge, a warm lamp. Background: a soft gradient from deep slate blue (left) to warm cream (right), suggesting "from not knowing to knowing". Palette: slate #2B3A55, cream #F4EFE6, amber #E0A458. Flat editorial illustration, thin ink outlines, no gloss. The only text in the image: "explanatory-skill" in a clean sans-serif, bottom-left. No other words, no logos.
